@@ -1,0 +1,4 @@
+/explore/us
+/explore/br
+/explore_usa
+/explore_br

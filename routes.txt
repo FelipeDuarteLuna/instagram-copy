@@ -1,0 +1,2 @@
+/explore/us
+/explore/br

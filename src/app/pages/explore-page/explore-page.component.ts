@@ -7,7 +7,7 @@ import { Post } from '../../types/post';
 
 @Component({
   selector: 'app-explore-page',
-  imports: [PostComponent, FeedComponent],
+  imports: [ FeedComponent],
   templateUrl: './explore-page.component.html',
   styleUrl: './explore-page.component.scss'
 })
